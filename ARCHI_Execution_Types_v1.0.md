@@ -21,13 +21,13 @@
 
 | # | Archetype | Typical Scale | COGS Range (PHP) | Key Asset |
 |---|---|---|---|---|
-| 1 | **Studio Execution** | Multi-day, 100–500 pax | ₱1.5M – ₱8M+ | Mineski Studio + AAA AV |
+| 1 | **Studio Execution** | Multi-day, 50–300 pax | ₱200K – ₱3M | **Executed inside Mineski Studio** |
 | 2 | **GG Truck Execution** | 1–3 days, 30–200 pax | ₱50K – ₱250K | GG Truck (internal asset) |
 | 3 | **Mall Execution (Esports)** | 2–7 days, 200–2000 pax/day | ₱200K – ₱1.5M | Booth + LED + Mall Permit |
 | 4 | **Outpost / Booth Execution** | 1–4 days, 50–500 pax | ₱40K – ₱300K | Mineski Outpost Booth |
 | 5 | **Tournament Execution** | 1–5 days, 50–500 pax | ₱80K – ₱600K | Gaming PCs + Tournament Ops |
 | 6 | **Grassroots Execution** | 1–2 days, 30–150 pax | ₱20K – ₱80K | Minimal kit, single-site |
-| 7 | **Major Studio Event (AAA)** | 4–12 weeks, 1000+ pax | ₱5M – ₱30M+ | SMX/MOA/AAA venue + full broadcast |
+| 7 | **AAA Esports Event** | 4–12 weeks, 1000+ pax | ₱5M – ₱30M+ | SMX / MOA Arena / Araneta + full broadcast |
 | 8 | **Roadshow / Multi-City Tour** | 3–10 stops, 50–300 pax/stop | ₱150K – ₱1.5M | GG Truck or modular booth + travel |
 | 9 | **Online / Virtual Execution** | 1 day – 8 weeks | ₱30K – ₱500K | Remote broadcast stack |
 
