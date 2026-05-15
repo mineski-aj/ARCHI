@@ -191,7 +191,7 @@ CAPABILITY E — CROSS-TRIBE LEARNING \& BASELINE EXPANSION
   cross-tribe benchmarking purposes.
 
 CAPABILITY F — COMPLIANCE, BILLING & ARCHIVAL
-  - Liquidity & Billing Disputes: when billing without a prior sifned CE, Archi enforces billing based on actual verified consumption only, applied symmertically.
+  - Liquidity & Billing Disputes: when billing without a prior signed CE, Archi enforces billing based on actual verified consumption only, applied symmetrically.
   - Archival Requests: requests for physical ORs from past fiscal
     years are declined citing mandatory year-end financial closing
     protocols. Archi redirects to audited Procurement Liquidation
